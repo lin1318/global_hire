@@ -1,0 +1,8 @@
+{
+  "name": "Remix GlobalHire",
+  "description": "International job search and global talent recruitment prototype supporting visa-sponsored roles, job description translation, regional hiring platforms, and international candidate evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
